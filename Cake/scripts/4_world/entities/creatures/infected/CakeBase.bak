@@ -1,9 +1,0 @@
-modded class CakeBase extends ZombieBase
-{	
-	override bool CanBeSkinned()
-	{
-		return true;
-	}
-	bool collidesWithCharacterOnDeath = true
-
-}
